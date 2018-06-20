@@ -18,6 +18,7 @@ babel-preset-env
 babel-preset-react
 babel-plugin-transform-class-properties
 babel-polyfill
+babel-plugin-transform-object-rest-spread
 
 ### And here are the commands I used:
 
@@ -38,3 +39,4 @@ npm install babel-preset-env --save-dev
 npm install babel-preset-react --save-dev
 npm install babel-plugin-transform-class-properties --save-dev
 npm install babel-polyfill --save
+npm install babel-plugin-transform-object-rest-spread --save-dev 
