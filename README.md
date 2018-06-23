@@ -19,6 +19,7 @@ babel-preset-react
 babel-plugin-transform-class-properties
 babel-polyfill
 babel-plugin-transform-object-rest-spread
+mini-css-extract-plugin
 
 ### And here are the commands I used:
 
@@ -39,4 +40,5 @@ npm install babel-preset-env --save-dev
 npm install babel-preset-react --save-dev
 npm install babel-plugin-transform-class-properties --save-dev
 npm install babel-polyfill --save
-npm install babel-plugin-transform-object-rest-spread --save-dev 
+npm install babel-plugin-transform-object-rest-spread --save-dev
+npm install mini-css-extract-plugin --save-dev
