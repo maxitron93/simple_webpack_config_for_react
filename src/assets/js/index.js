@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import KittenImage from '../img/kitten.jpg'; // This is how to add images
 import 'normalize.css/normalize.css';
 import '../css/styles.scss';
+require('../img/favicon.png')
 
 const App = () => {
   return (

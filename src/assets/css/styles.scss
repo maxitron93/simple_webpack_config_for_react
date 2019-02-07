@@ -1,0 +1,6 @@
+@import './base/settings';
+@import './base/base';
+
+* {
+  color: $off-black; // This is how to import variables from ./base/settings
+}
